@@ -37,7 +37,3 @@ This repository contains a simple splash screen with a fade-in text animation cr
 ## License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
-
----
-
-Would you like me to write a `LICENSE` file as well?
